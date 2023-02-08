@@ -2,7 +2,7 @@ function Projects(){
     return(
         <div>
     <h1>Projects</h1>
-<div>
+<div id="projects">
   <section className="projects">
     <header> Code Refactor</header>
     {/* credit: https://res.cloudinary.com/practicaldev/image/fetch/s--L-1erqyX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k1v5w8l72wy9a7paxowp.png */}

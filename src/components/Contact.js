@@ -1,6 +1,6 @@
 function Contact() {
     return (
-        <div>
+        <div id="contact">
             <h3>Contact Form</h3>
             <div className="container">
                 <form action="/action_page.php">
