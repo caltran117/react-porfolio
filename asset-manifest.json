@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d4007cf2.js",
-    "static/js/787.b642d3ba.chunk.js": "/static/js/787.b642d3ba.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d4007cf2.js.map": "/static/js/main.d4007cf2.js.map",
-    "787.b642d3ba.chunk.js.map": "/static/js/787.b642d3ba.chunk.js.map"
+    "main.css": "/react-porfolio/static/css/main.d35a7504.css",
+    "main.js": "/react-porfolio/static/js/main.a61806d5.js",
+    "static/js/787.b642d3ba.chunk.js": "/react-porfolio/static/js/787.b642d3ba.chunk.js",
+    "static/media/javascript.png": "/react-porfolio/static/media/javascript.d61da0dcb1befc1aee1e.png",
+    "static/media/code refact.png": "/react-porfolio/static/media/code refact.41b1677c4ec1a2999dee.png",
+    "static/media/web api.png": "/react-porfolio/static/media/web api.5d2607e9e9b1b9b934b9.png",
+    "static/media/logo.svg": "/react-porfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-porfolio/index.html",
+    "main.d35a7504.css.map": "/react-porfolio/static/css/main.d35a7504.css.map",
+    "main.a61806d5.js.map": "/react-porfolio/static/js/main.a61806d5.js.map",
+    "787.b642d3ba.chunk.js.map": "/react-porfolio/static/js/787.b642d3ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d4007cf2.js"
+    "static/css/main.d35a7504.css",
+    "static/js/main.a61806d5.js"
   ]
 }
